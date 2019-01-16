@@ -30,4 +30,7 @@ return array(
     'ae2fadc5a311f32b20ba30a524ca3683' => $vendorDir . '/pragmarx/support/src/helpers.php',
     '801c31d8ed748cfa537fa45402288c95' => $vendorDir . '/psy/psysh/src/functions.php',
     '0d8253363903f0ac7b0978dcde4e28a0' => $vendorDir . '/beyondcode/laravel-dump-server/helpers.php',
+    'a7cee959d5f14eb7484e7f8e7182e03d' => $vendorDir . '/geoip/geoip/src/geoip.inc',
+    '8cf74b4cf02ad0591c257dcfb7edbc8d' => $vendorDir . '/geoip/geoip/src/geoipcity.inc',
+    'd114bd5194e69687495c9150ff6be780' => $vendorDir . '/geoip/geoip/src/timezone.php',
 );
