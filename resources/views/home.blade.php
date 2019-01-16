@@ -15,7 +15,7 @@
                     @endif
 
                     You are logged in! 
-                    @foreach($user as $user)
+                    @foreach($users as $user)
                             {{$user->id}}
                             {{$user->name}}
                             {{$user->email}}
